@@ -2,7 +2,7 @@
 participant = "akuity"
 env_name    = "dev"
 # image_tag is updated by the Kargo promotion (hcl-update).
-image_tag = 3
+image_tag = 4
 
 # Lambda function name prefix (must match what the workshop AWS creds are scoped
 # to). The shared execution role ARN is defaulted in variables.tf.
